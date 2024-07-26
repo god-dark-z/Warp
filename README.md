@@ -24,7 +24,7 @@ To get started, clone the repository and install the required dependencies.
 ```
 git clone https://github.com/god-dark-z/Warp
 cd Warp
-python warp.py
+python Warp.py
 ```
 
 ## 🤝 Contributing
