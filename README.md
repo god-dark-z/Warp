@@ -36,7 +36,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 📧 Contact
 Have questions? Feel free to reach out:
 
-Email: blackydevil23@gmail.com
+Email: dragontech177@gmail.com
+
 Twitter: null
+
 GitHub Issues: Submit an Issue
 # 🌟 Enjoy using the Free Warp GB Python Tool! Happy coding! 🌟
